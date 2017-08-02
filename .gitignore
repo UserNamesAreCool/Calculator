@@ -1,3 +1,3 @@
-bower_components/
-css/main.scss
-css/main.css.map
+public/bower_components/
+public/css/main.scss
+public/css/main.css.map
